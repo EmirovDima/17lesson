@@ -1,0 +1,70 @@
+.body {
+  height: 350px;
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  color: white;
+  font-size: 40px;
+  font-family: "Roboto Slab", serif;
+  margin-top: -570px;
+}
+.header {
+  background-color: black;
+  width: 100%;
+  background-size: 100%;
+  padding: 30px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "Merriweather", serif;
+  margin-right: 40px;
+  margin-top: 45px;
+  height: 630px;
+  color: white;
+}
+.main-menu {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  margin-right: 30px;
+  font-family: "Nunito", sans-serif;
+  margin-right: 30px;
+  margin-top: -25px;
+  color: white;
+  margin-top: 30px;
+}
+.mu {
+  text-align: center;
+}
+.men {
+  text-align: center;
+  margin-top: 110px;
+}
+.button {
+  text-decoration: none;
+  margin-top: -250px;
+  color: black;
+  border: 2px solid rgb(255, 255, 0);
+  font-size: 18px;
+  color: white;
+  margin-top: -550px;
+}
+.main-text {
+  text-align: center;
+}
+.cards {
+  display: flex;
+
+  text-align: center;
+}
+.card {
+  border: solid yellow 1px;
+  color: white;
+  margin-right: 500px;
+  display: inline block;
+  padding: 40px;
+  margin-top: 70px;
+  margin-right: 80px;
+}
